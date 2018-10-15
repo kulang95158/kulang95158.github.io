@@ -1,0 +1,49 @@
+        * {
+            font-family: 微軟正黑體
+        }
+        
+        body {
+            width: 100px;
+            height: 100px;
+            padding: 0%;
+            margin: 0px;
+        }
+        
+        img {
+            position: absolute;
+            height: 2892.800px;
+            width: 6142.800px;
+            margin: 0px;
+            padding: 0%;
+        }
+        
+        .center {
+            width: 4000px;
+            height: 2685px;
+            padding: 100px;
+            margin-left: 970px;
+            margin-right: 100px;
+            background-color: #fcf4f4a1;
+            position: sticky;
+        }
+        
+        .center h1 {
+            letter-spacing: 105px;
+            font-size: 250px;
+            font-family: 'Times New Roman', Times, serif
+        }
+        
+        .center h1 span {
+            padding: 20px;
+            font-size: 250px;
+            letter-spacing: 25px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: 30
+        }
+        
+        .center HR {
+            height: 5px;
+            color: #5294b3;
+            border-style: solid;
+            margin-top: -180px
+        }
